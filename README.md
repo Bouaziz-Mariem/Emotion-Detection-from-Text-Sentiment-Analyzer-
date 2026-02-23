@@ -10,7 +10,7 @@ Type or paste any text, and the AI analyzes it for emotions (joy, anger, sadness
 - Visualization: emotion radar chart, emotion timeline for long texts
 - Compare emotional tone across multiple texts (e.g., two book chapters)
 
-**Skills to Learn:**
+**Mastered Skills:**
 - Lexicon-based sentiment analysis from scratch
 - Word-level feature engineering (negation handling, intensifiers, emoji parsing)
 - Text preprocessing pipeline (tokenization, stemming, stop word removal)
