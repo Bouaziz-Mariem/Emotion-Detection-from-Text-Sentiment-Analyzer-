@@ -1,4 +1,5 @@
-"# Emotion-Detection-from-Text-Sentiment-Analyzer-" 
+## Emotion Detection from Text (Sentiment Analyzer)
+
 Type or paste any text, and the AI analyzes it for emotions (joy, anger, sadness, fear, surprise) using NLP techniques built from scratch — no pre-trained models.
 
 **Features:**
@@ -8,7 +9,6 @@ Type or paste any text, and the AI analyzes it for emotions (joy, anger, sadness
 - Emotion intensity scoring (mild annoyance vs. rage)
 - Visualization: emotion radar chart, emotion timeline for long texts
 - Compare emotional tone across multiple texts (e.g., two book chapters)
-
 
 **Mastered Skills:**
 - Lexicon-based sentiment analysis from scratch
