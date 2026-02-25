@@ -1,0 +1,916 @@
+{
+  "abhor": {
+    "disgust": 0.6
+  },
+  "abhorr": {
+    "disgust": 0.9
+  },
+  "abject": {
+    "sadness": 0.6
+  },
+  "abomin": {
+    "disgust": 0.6
+  },
+  "admir": {
+    "surprise": 0.6
+  },
+  "affright": {
+    "fear": 0.6
+  },
+  "afraid": {
+    "fear": 0.9
+  },
+  "alarm": {
+    "disgust": 0.6
+  },
+  "alon": {
+    "sadness": 0.6
+  },
+  "amaz": {
+    "surprise": 0.9
+  },
+  "amus": {
+    "joy": 0.9
+  },
+  "anger": {
+    "anger": 0.6
+  },
+  "angri": {
+    "anger": 0.9
+  },
+  "annoy": {
+    "anger": 0.9
+  },
+  "antipathi": {
+    "disgust": 0.6
+  },
+  "anxiou": {
+    "fear": 0.9
+  },
+  "appal": {
+    "anger": 0.6,
+    "disgust": 0.9,
+    "surprise": 0.6
+  },
+  "apprehens": {
+    "fear": 0.6
+  },
+  "ashen": {
+    "anger": 0.6
+  },
+  "assault": {
+    "anger": 0.6
+  },
+  "astoni": {
+    "surprise": 0.6
+  },
+  "astonish": {
+    "surprise": 0.9
+  },
+  "astound": {
+    "surprise": 0.6
+  },
+  "at sea": {
+    "surprise": 0.6
+  },
+  "avers": {
+    "disgust": 0.9
+  },
+  "avert": {
+    "disgust": 0.6
+  },
+  "aw": {
+    "fear": 0.6
+  },
+  "baffl": {
+    "surprise": 0.6
+  },
+  "ball ov": {
+    "surprise": 0.6
+  },
+  "beat": {
+    "surprise": 0.6
+  },
+  "beat back": {
+    "disgust": 0.6
+  },
+  "bedaz": {
+    "surprise": 0.6
+  },
+  "befuddl": {
+    "surprise": 0.6
+  },
+  "bemus": {
+    "surprise": 0.6
+  },
+  "bewild": {
+    "surprise": 0.9
+  },
+  "bitter": {
+    "anger": 0.9
+  },
+  "blanch": {
+    "anger": 0.6
+  },
+  "bloodless": {
+    "anger": 0.6
+  },
+  "blow out of the wat": {
+    "surprise": 0.6
+  },
+  "blue": {
+    "sadness": 0.6
+  },
+  "bother": {
+    "anger": 0.6
+  },
+  "brainsick": {
+    "anger": 0.6
+  },
+  "brokenheart": {
+    "sadness": 0.6
+  },
+  "brokenhearted": {
+    "sadness": 0.6
+  },
+  "care": {
+    "fear": 0.6
+  },
+  "cast down": {
+    "sadness": 0.6
+  },
+  "chafe": {
+    "anger": 0.6
+  },
+  "cheer": {
+    "joy": 0.9
+  },
+  "churn up": {
+    "disgust": 0.6
+  },
+  "come down": {
+    "disgust": 0.6
+  },
+  "confound": {
+    "surprise": 0.6
+  },
+  "confus": {
+    "surprise": 0.6
+  },
+  "content": {
+    "joy": 0.9
+  },
+  "crazi": {
+    "anger": 0.6
+  },
+  "curios": {
+    "surprise": 0.6
+  },
+  "dark": {
+    "sadness": 0.6
+  },
+  "dash": {
+    "fear": 0.6
+  },
+  "daunt": {
+    "fear": 0.6
+  },
+  "daze": {
+    "surprise": 0.6
+  },
+  "deject": {
+    "sadness": 0.6
+  },
+  "delight": {
+    "joy": 0.9
+  },
+  "deliri": {
+    "anger": 0.6
+  },
+  "dement": {
+    "anger": 0.6
+  },
+  "demor": {
+    "sadness": 0.6
+  },
+  "demoralis": {
+    "sadness": 0.6
+  },
+  "deplor": {
+    "sadness": 0.6
+  },
+  "depress": {
+    "sadness": 0.9
+  },
+  "desecr": {
+    "anger": 0.6
+  },
+  "detest": {
+    "disgust": 0.6
+  },
+  "devil": {
+    "anger": 0.6
+  },
+  "die": {
+    "fear": 0.6
+  },
+  "dingi": {
+    "sadness": 0.6
+  },
+  "dire": {
+    "fear": 0.6
+  },
+  "discombobul": {
+    "surprise": 0.6
+  },
+  "disconsol": {
+    "sadness": 0.6
+  },
+  "disgust": {
+    "disgust": 0.9
+  },
+  "dishonor": {
+    "anger": 0.6
+  },
+  "dishonour": {
+    "anger": 0.6
+  },
+  "dismal": {
+    "sadness": 0.6
+  },
+  "dismay": {
+    "disgust": 0.6,
+    "sadness": 0.6
+  },
+  "dispirit": {
+    "sadness": 0.6
+  },
+  "disport": {
+    "joy": 0.6
+  },
+  "distast": {
+    "disgust": 0.9
+  },
+  "distress": {
+    "sadness": 0.6
+  },
+  "disturb": {
+    "anger": 0.6
+  },
+  "divert": {
+    "joy": 0.6
+  },
+  "down": {
+    "sadness": 0.6
+  },
+  "down in the mouth": {
+    "sadness": 0.6
+  },
+  "downcast": {
+    "sadness": 0.6
+  },
+  "downheart": {
+    "sadness": 0.6
+  },
+  "drab": {
+    "sadness": 0.6
+  },
+  "dread": {
+    "fear": 0.9
+  },
+  "drear": {
+    "sadness": 0.6
+  },
+  "dreari": {
+    "sadness": 0.6
+  },
+  "drive": {
+    "disgust": 0.6
+  },
+  "drive back": {
+    "disgust": 0.6
+  },
+  "dumb": {
+    "surprise": 0.6
+  },
+  "dumbfound": {
+    "surprise": 0.6
+  },
+  "dysphor": {
+    "sadness": 0.6
+  },
+  "elat": {
+    "joy": 0.9
+  },
+  "enchant": {
+    "joy": 0.6
+  },
+  "enjoy": {
+    "joy": 0.6
+  },
+  "enrag": {
+    "anger": 0.9
+  },
+  "enraptur": {
+    "joy": 0.6
+  },
+  "entertain": {
+    "joy": 0.6
+  },
+  "enthral": {
+    "joy": 0.6
+  },
+  "excit": {
+    "anger": 0.6,
+    "joy": 0.9
+  },
+  "execr": {
+    "disgust": 0.6
+  },
+  "fear": {
+    "fear": 0.6
+  },
+  "fearsom": {
+    "fear": 0.6
+  },
+  "fed up": {
+    "disgust": 0.6
+  },
+  "felicit": {
+    "joy": 0.6
+  },
+  "feroci": {
+    "anger": 0.6
+  },
+  "fierc": {
+    "anger": 0.6
+  },
+  "fight off": {
+    "disgust": 0.6
+  },
+  "floor": {
+    "surprise": 0.6
+  },
+  "flummox": {
+    "surprise": 0.6
+  },
+  "force back": {
+    "disgust": 0.6
+  },
+  "frantic": {
+    "anger": 0.6
+  },
+  "fright": {
+    "fear": 0.6
+  },
+  "frighten": {
+    "fear": 0.9
+  },
+  "frighten away": {
+    "fear": 0.6
+  },
+  "frighten off": {
+    "fear": 0.6
+  },
+  "furiou": {
+    "anger": 0.9
+  },
+  "galvan": {
+    "surprise": 0.6
+  },
+  "galvanis": {
+    "surprise": 0.6
+  },
+  "get": {
+    "surprise": 0.6
+  },
+  "get at": {
+    "anger": 0.6
+  },
+  "get down": {
+    "sadness": 0.6
+  },
+  "get to": {
+    "anger": 0.6
+  },
+  "glad": {
+    "joy": 0.6
+  },
+  "gleeful": {
+    "joy": 0.6
+  },
+  "gloom": {
+    "sadness": 0.6
+  },
+  "gloomi": {
+    "sadness": 0.9
+  },
+  "grate": {
+    "joy": 0.9
+  },
+  "gravel": {
+    "anger": 0.6,
+    "surprise": 0.6
+  },
+  "grief": {
+    "sadness": 0.9
+  },
+  "grim": {
+    "sadness": 0.6
+  },
+  "gross out": {
+    "disgust": 0.6
+  },
+  "hapless": {
+    "sadness": 0.6
+  },
+  "happi": {
+    "joy": 0.9
+  },
+  "harass": {
+    "anger": 0.6
+  },
+  "harri": {
+    "anger": 0.6
+  },
+  "heartach": {
+    "sadness": 0.6
+  },
+  "heartbreak": {
+    "sadness": 0.6
+  },
+  "heartbroken": {
+    "sadness": 0.9
+  },
+  "heartsick": {
+    "sadness": 0.6
+  },
+  "hopeless": {
+    "sadness": 0.9
+  },
+  "horrend": {
+    "fear": 0.6
+  },
+  "horrif": {
+    "fear": 0.6
+  },
+  "horrifi": {
+    "disgust": 0.6
+  },
+  "hostil": {
+    "anger": 0.9
+  },
+  "huffi": {
+    "anger": 0.6
+  },
+  "infuri": {
+    "anger": 0.6
+  },
+  "intox": {
+    "joy": 0.6
+  },
+  "irrit": {
+    "anger": 0.9
+  },
+  "joy": {
+    "joy": 0.6
+  },
+  "jubil": {
+    "joy": 0.6
+  },
+  "jump": {
+    "surprise": 0.6
+  },
+  "lament": {
+    "sadness": 0.6
+  },
+  "lift up": {
+    "joy": 0.6
+  },
+  "livid": {
+    "anger": 0.9
+  },
+  "loath": {
+    "disgust": 0.9
+  },
+  "lone": {
+    "sadness": 0.9
+  },
+  "lonesom": {
+    "sadness": 0.6
+  },
+  "lost": {
+    "surprise": 0.6
+  },
+  "low": {
+    "sadness": 0.6
+  },
+  "low-down": {
+    "sadness": 0.6
+  },
+  "low-spirit": {
+    "sadness": 0.6
+  },
+  "lower": {
+    "sadness": 0.6
+  },
+  "mad": {
+    "anger": 0.9
+  },
+  "madden": {
+    "anger": 0.6
+  },
+  "mark": {
+    "fear": 0.6
+  },
+  "marvel": {
+    "surprise": 0.6
+  },
+  "maze": {
+    "surprise": 0.6
+  },
+  "messag": {
+    "joy": 0.6
+  },
+  "mif": {
+    "anger": 0.6
+  },
+  "miser": {
+    "sadness": 0.9
+  },
+  "misfortun": {
+    "sadness": 0.6
+  },
+  "mixed-up": {
+    "surprise": 0.6
+  },
+  "mystifi": {
+    "surprise": 0.6
+  },
+  "nark": {
+    "anger": 0.6
+  },
+  "nauseat": {
+    "disgust": 0.9
+  },
+  "nauseou": {
+    "disgust": 0.6
+  },
+  "nervou": {
+    "fear": 0.9
+  },
+  "nettl": {
+    "anger": 0.6
+  },
+  "neural": {
+    "fear": 0.6
+  },
+  "nonplu": {
+    "surprise": 0.6
+  },
+  "odium": {
+    "disgust": 0.6
+  },
+  "offend": {
+    "anger": 0.6,
+    "disgust": 0.6,
+    "surprise": 0.6
+  },
+  "outrag": {
+    "anger": 0.9,
+    "disgust": 0.6,
+    "surprise": 0.6
+  },
+  "pall": {
+    "fear": 0.6
+  },
+  "panic": {
+    "fear": 0.6
+  },
+  "panic-stricken": {
+    "fear": 0.6
+  },
+  "panic-struck": {
+    "fear": 0.6
+  },
+  "panick": {
+    "fear": 0.9
+  },
+  "panicki": {
+    "fear": 0.6
+  },
+  "pathet": {
+    "sadness": 0.6
+  },
+  "peev": {
+    "anger": 0.6
+  },
+  "perplex": {
+    "surprise": 0.6
+  },
+  "pester": {
+    "anger": 0.6
+  },
+  "pick up": {
+    "joy": 0.6
+  },
+  "piss": {
+    "anger": 0.6
+  },
+  "pissed off": {
+    "anger": 0.6
+  },
+  "pit": {
+    "fear": 0.6
+  },
+  "piteou": {
+    "sadness": 0.6
+  },
+  "piti": {
+    "sadness": 0.6
+  },
+  "pitiabl": {
+    "sadness": 0.6
+  },
+  "pleas": {
+    "joy": 0.9
+  },
+  "pock": {
+    "fear": 0.6
+  },
+  "pollyannaish": {
+    "joy": 0.6
+  },
+  "poor": {
+    "sadness": 0.6
+  },
+  "pose": {
+    "surprise": 0.6
+  },
+  "profan": {
+    "anger": 0.6
+  },
+  "push back": {
+    "disgust": 0.6
+  },
+  "puzzl": {
+    "surprise": 0.6
+  },
+  "queasi": {
+    "disgust": 0.6,
+    "fear": 0.6
+  },
+  "rag": {
+    "anger": 0.6
+  },
+  "rage": {
+    "anger": 0.6
+  },
+  "rape": {
+    "anger": 0.6
+  },
+  "ravish": {
+    "anger": 0.6,
+    "joy": 0.6
+  },
+  "rebuff": {
+    "disgust": 0.6
+  },
+  "repel": {
+    "disgust": 0.6
+  },
+  "repuls": {
+    "disgust": 0.9
+  },
+  "restless": {
+    "fear": 0.6
+  },
+  "revel": {
+    "joy": 0.6
+  },
+  "revolt": {
+    "disgust": 0.9
+  },
+  "rile": {
+    "anger": 0.6
+  },
+  "roil": {
+    "anger": 0.6
+  },
+  "sad": {
+    "sadness": 0.9
+  },
+  "sandbag": {
+    "surprise": 0.6
+  },
+  "savag": {
+    "anger": 0.6
+  },
+  "scandal": {
+    "anger": 0.6,
+    "disgust": 0.6,
+    "surprise": 0.6
+  },
+  "scandalis": {
+    "anger": 0.6,
+    "disgust": 0.6,
+    "surprise": 0.6
+  },
+  "scar": {
+    "fear": 0.6
+  },
+  "scare": {
+    "fear": 0.9
+  },
+  "scare away": {
+    "fear": 0.6
+  },
+  "scare off": {
+    "fear": 0.6
+  },
+  "scummi": {
+    "sadness": 0.6
+  },
+  "scurvi": {
+    "sadness": 0.6
+  },
+  "shiver": {
+    "joy": 0.6
+  },
+  "shock": {
+    "anger": 0.6,
+    "disgust": 0.6,
+    "surprise": 0.9
+  },
+  "shudder": {
+    "joy": 0.6
+  },
+  "sick": {
+    "anger": 0.6,
+    "disgust": 0.6
+  },
+  "sick of": {
+    "disgust": 0.6
+  },
+  "sicken": {
+    "disgust": 0.9
+  },
+  "sickish": {
+    "disgust": 0.6
+  },
+  "solitari": {
+    "sadness": 0.6
+  },
+  "sore": {
+    "anger": 0.6
+  },
+  "sorri": {
+    "sadness": 0.6
+  },
+  "sorrow": {
+    "sadness": 0.9
+  },
+  "speechless": {
+    "surprise": 0.9
+  },
+  "start": {
+    "surprise": 0.6
+  },
+  "startl": {
+    "surprise": 0.9
+  },
+  "steam": {
+    "anger": 0.6
+  },
+  "stick": {
+    "surprise": 0.6
+  },
+  "stimul": {
+    "joy": 0.6
+  },
+  "stir": {
+    "joy": 0.6
+  },
+  "storm": {
+    "surprise": 0.6
+  },
+  "stun": {
+    "surprise": 0.9
+  },
+  "stung": {
+    "anger": 0.6
+  },
+  "stupefi": {
+    "surprise": 0.6
+  },
+  "subject matt": {
+    "joy": 0.6
+  },
+  "substanc": {
+    "joy": 0.6
+  },
+  "suffer": {
+    "sadness": 0.6
+  },
+  "sulki": {
+    "sadness": 0.6
+  },
+  "surpris": {
+    "surprise": 0.9
+  },
+  "take aback": {
+    "surprise": 0.6
+  },
+  "tempestu": {
+    "anger": 0.6
+  },
+  "terribl": {
+    "fear": 0.6
+  },
+  "terrifi": {
+    "fear": 0.9
+  },
+  "terror": {
+    "fear": 0.6
+  },
+  "terroris": {
+    "fear": 0.6
+  },
+  "thank": {
+    "joy": 0.6
+  },
+  "thrill": {
+    "joy": 0.9
+  },
+  "throb": {
+    "joy": 0.6
+  },
+  "throw": {
+    "surprise": 0.6
+  },
+  "tickl": {
+    "joy": 0.6
+  },
+  "tired of": {
+    "disgust": 0.6
+  },
+  "transport": {
+    "joy": 0.6
+  },
+  "turn one's stomach": {
+    "disgust": 0.6
+  },
+  "unbalanc": {
+    "anger": 0.6
+  },
+  "uneasi": {
+    "fear": 0.9
+  },
+  "unexpect": {
+    "surprise": 0.9
+  },
+  "unhappi": {
+    "sadness": 0.9
+  },
+  "unhing": {
+    "anger": 0.6
+  },
+  "unquiet": {
+    "fear": 0.6
+  },
+  "unrestrain": {
+    "anger": 0.6
+  },
+  "upbeat": {
+    "joy": 0.6
+  },
+  "uplift": {
+    "joy": 0.6
+  },
+  "vex": {
+    "anger": 0.6,
+    "fear": 0.6,
+    "surprise": 0.6
+  },
+  "vibrat": {
+    "joy": 0.6
+  },
+  "violat": {
+    "anger": 0.6
+  },
+  "white": {
+    "anger": 0.6
+  },
+  "wild": {
+    "anger": 0.6
+  },
+  "wonder": {
+    "surprise": 0.9
+  },
+  "worri": {
+    "fear": 0.9
+  },
+  "wretch": {
+    "sadness": 0.6
+  }
+}
